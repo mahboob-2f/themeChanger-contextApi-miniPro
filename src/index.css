@@ -1,1 +1,8 @@
 @import "tailwindcss";
+
+.dark{
+    background: black;
+}
+.dark a{
+    color: white;
+}
